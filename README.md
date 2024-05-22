@@ -1,9 +1,9 @@
-# Accenture North America Data Analytics and Visualization Virtual Experience Program.
-## Overview
+# Accenture Virtual Experience Program.
+## Project Overview
 This project is a Job simulation Data Analysis project for a company called Social-Buzz. It simulates real-world data analytics tasks, providing practical experience in data handling, visualization, and deriving actionable insights. Social Buzz is a social media conglomerate and they have an APP that emphasizes content by keeping all users anonymous, only tracking user reactions on every piece of content. There are over 100 ways that users can react to content, spanning beyond the traditional reactions of likes, dislikes, and comments. This ensures that trending content, as opposed to
 individual users, is at the forefront of user feeds. 
 
-## Objectives
+## Project Objectives
 - To conduct an analysis of social-Buzz's data to find insights regarding their top 5 most popular categories of content
 - Analyze datasets to uncover trends and patterns.
 - Create clear and informative visualizations.
